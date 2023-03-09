@@ -205,7 +205,7 @@ h3 {
 .section_bed {
   margin-top: 150px;
   height: 717px;
-  background-image: url("../resurses/bed.png");
+  background-image: url("./resurses/bed.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 100%;
